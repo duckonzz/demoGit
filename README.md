@@ -1,9 +1,9 @@
 # Hà Minh Đức
 
-**Tôi sinh năm 2003**
-_Tôi sinh ra ở Quy Nhơn_
-**Quê quán: _Thái Thụy,Thái Bình_**
-~~Là dân tộc H'Mong~~
+**Texting sample**
+_Texting sample_
+**Texting _sample_**
+~~Texting sample~~
 **_Mọi người chú ý:_**
 This is a <sub>example</sub>
 This is a <sup>example</sup>
